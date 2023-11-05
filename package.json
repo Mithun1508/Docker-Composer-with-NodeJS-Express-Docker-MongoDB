@@ -1,23 +1,28 @@
 {
-  "name": "Docker-Composer-with-NodeJS-Express-Docker",
+  "name": "docker-composer-with-nodejs-express-docker-mongodb",
   "version": "1.0.0",
   "description": "Compose is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application's services. Then, with a single command, you create and start all the services from your configuration.",
   "main": "index.js",
+  "dependencies": {
+    "data-uri-to-buffer": "^4.0.0",
+    "fetch-blob": "^3.1.5",
+    "formdata-polyfill": "^4.0.10",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.3.0",
+    "web-streams-polyfill": "^3.2.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soumyadip007/Docker-Composer-with-NodeJS-Express-Docker.git"
+    "url": "git+https://github.com/Mithun1508/Docker-Composer-with-NodeJS-Express-Docker-MongoDB.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/soumyadip007/Docker-Composer-with-NodeJS-Express-Docker/issues"
+    "url": "https://github.com/Mithun1508/Docker-Composer-with-NodeJS-Express-Docker-MongoDB/issues"
   },
-  "homepage": "https://github.com/soumyadip007/Docker-Composer-with-NodeJS-Express-Docker#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/Mithun1508/Docker-Composer-with-NodeJS-Express-Docker-MongoDB#readme"
 }
