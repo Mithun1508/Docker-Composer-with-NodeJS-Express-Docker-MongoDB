@@ -17,7 +17,7 @@ mongoose.connect(DB, {
 
 
 /*
-Soumyadip@DESKTOP-INVVN9F MINGW64 /e/Red Hat Learning/Docker-Composer-with-NodeJS-Express-Docker (main)
+Mithun@DESKTOP-INVVN9F MINGW64 /e/Red Hat Learning/Docker-Composer-with-NodeJS-Express-Docker (main)
 $ docker-compose up --build
 
 Docker Compose is now in the Docker CLI, try `docker compose up`
